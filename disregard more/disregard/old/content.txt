@@ -1,0 +1,78 @@
+FAQ
+
+What's a CTF?
+In a CTF (Capture the Flag) competition, teams attempt to, well, capture flags. Flags, or short strings, are disguised in some fashion. For example, they might be encrypted, hidden away on the internet, or built using an algorithm. Teams earn points for discovering (and submitting) these flags.
+
+Ok, what's Capture the CTF?
+Who is the competition for?
+This competition will be open to students in high school or below. Teams will be composed of up to four students - and we really do mean "<i>up to</i> four"! Because of the length of the competition, teams consisting of fewer students are not necessarily put at a significant disadvantage, and we welcome their participation. Official teams must consist of students who attend a single school, though exceptions will be made on a case-by-case basis for students, especially homeschooled ones, who are affiliated with a certain school. Teams who do not meet the above criteria are welcome to participate non-competitively. 
+
+Why compete?
+We found, by participating in picoCTF and HSCTF, that our own computer science skills advanced rapidly as a direct result of participation. CTCTF will teach participants not just about computer security, but also about other areas such as the design of algorithms. And, most importantly, competing is a lot of fun! 
+
+How difficult is it?
+There will be challenges tailored to students of all levels, whether you're a seasoned veteran or still struggling with the "Hello World!" program. Some problems will be solved by nearly every team, while some will be solved by none at all. It will be possible to do very well without any prior CTF experience, though having programming experience will be very useful. Everyone should find it a rewarding experience! 
+ 
+How do we compete?
+CTCTF will take place almost entirely on this website, though some challenges will require participants to explore the rest of the internet. Registration will be open shortly, and teams will use their login credentials to view all the problems when the competition starts.
+
+When?
+The competition will begin on January 17th at 12:00:00 AM EST and end on January 25th at 11:59:59 PM EST. The exact starting and ending times are tentative.
+
+What do I need to compete?
+Participation requires only a computer, internet access, and the ability to download applications. 
+
+What is the competition format?
+There will be a variety of challenges, each of which will be worth a number of points determined by its difficulty. Once your team discovers a flag, its submission to our judging server will earn points towards your team's overall score. 
+
+What if I win?
+We will award the following prizes to the top teams:
+<jay do this>
+
+Is xxx allowed?
+CTCTF requires participants to utilize common sense with regard to fairness. Specifically, attacking CTCTF's infrastructure, including the website, scoring server, and other teams, constitutes cheating. Sharing flags, providing or soliciting hints, and soliciting direct assistance from people other than your teammates also constitutes cheating. Using printed or online resources during the competition is allowed, provided no "live help" is occurring.
+
+Who wrote CTCTF?
+CTCTF is written by students affiliated with the Bergen County Academies in New Jersey. The founders, and operators, consist of Alexander Katz (12th grade), David Yang (11th grade), and Jay Mo (9th grade). 
+
+How do I practice?
+picoCTF <insert link>, HSCTF <insert link> are both CTF competitions geared towards high school students, and the qualification round of CSAW CTF <insert link> is accessible to students. For the algorithmic problems, USACO <insert link> and Codeforces <insert link> are both high-quality sources of practice problems. Prepare for problems in many fields of "CTF"ing.
+
+
+
+
+
+
+
+
+Paragraph on Landing Page
+
+<!-- You're probably looking at this beautiful landing page right now, thinking to yourself "Man, another one of these annoying, somewhat boring, yet really hype-instigating CTFs. I don't have time for another one of these!" But this isn't just "another one of these". No, this Capture the CTF. That's right, we're no longer capturing flags here. We're capturing capture the flags! Jokes aside, --> For an entire week, CTCTF will be running. It is an online competition is built by high school students, for high school students. this CTF offers a great challenge for veteran hackers, while still being really fun for beginners to get their feet wet. From cryptography to brute-forcing through algorithmic problems, from completing some beginner HTTP request problem to cracking the code to one of the hardest, CTCTF is going to be a great experience. Sign up above or below to <Replace with register or get notifications about> CTCTF.
+
+
+
+
+
+
+
+Sponsors Paragraph
+None of this could have happened without our amazing sponsors! We want to give a big "Thank You!" to them all, and you should definitely check out their websites. If you want to be a sponsor, < SOMETHING IN HERE >. Thank you again to everyone listed below!
+
+
+
+
+
+
+
+
+Learn Paragraph
+Looking to prep before the competition, or maybe during the contest<!-- <!--Add this in before the contest lol-->(we're looking at you guys!)-->? You've come to the right place. Here, we will introduce necessary topics to know, such as basic programming, cryptography, working with binaries, and more.
+
+We also highly recommend other sources for training, such as the USACO training pages <LINK>, Project Euler <LINK>, and Codeforces <LINK>. Those are all great algorithmic training sources, but if you want a more general experience, visit the site of a previous CTF and take a look at the problems and their training material. Some examples are picoCTF <LINK>, easyCTF <LINK>, CSAW CTF <LINK>, HSCTF <LINK>, and others.
+
+
+
+
+
+
+

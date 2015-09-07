@@ -1,0 +1,161 @@
+/* @import "sass/global";
+@import "sass/intro";
+@import "sass/section";
+@import "sass/navbar";
+@import "sass/form";
+*/
+@import url(http://fonts.googleapis.com/css?family=Varela+Round);
+html {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  background-color: #ecf0f1; }
+
+body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  background: url(../assets/background.jpg);
+  background-size: cover;
+  font-family: 'Varela Round', sans-serif; }
+
+a,
+a:hover,
+a:link,
+a:visited {
+  text-decoration: none; }
+
+h1, h2, h3, h4, h5, h6, p {
+  margin: 0;
+  padding: 0; }
+
+img {
+  width: 100%;
+  max-width: 540px;
+  display: block;
+  text-align: center;
+  margin: 0 auto 0 auto; }
+
+h1 {
+  font-size: 32px;
+  color: #2ecc71;
+}
+
+.screen {
+  display: table;
+  width: 100%;
+  height: 100%; }
+  .screen .container {
+    display: table-cell;
+    vertical-align: middle; }
+    .screen .container .content {
+      text-align: center; }
+
+.email-form {
+  width: 340px;
+  max-width: 100%;
+  border: 0;
+  background-color: #5f5f5f;
+  padding: 7px 20px;
+  font-size: 18px;
+  color: #FFF; }
+
+.subscribe {
+  border: 0;
+  background-color: #2980b9;
+  color: #FFF;
+  padding: 7px 20px;
+  font-size: 18px;
+  -webkit-transition: all 250ms ease-out;
+  -moz-transition: all 250ms ease-out;
+  -ms-transition: all 250ms ease-out;
+  -o-transition: all 250ms ease-out;
+  transition: all 250ms ease-out; }
+  .subscribe:hover {
+    background-color: #3498db; }
+
+/*# sourceMappingURL=styles.css.map */
+
+/* Landing */
+.landing {
+    display: 1vh;
+}
+
+.landing-logo {
+    margin-top: 170px;
+    margin-bottom: 30px;
+}
+
+/* About */
+#about {
+    padding: 0 40px;
+    padding-bottom: 40px;
+    text-align: left;
+}
+
+.about-page {
+    background-color: #FFF;
+}
+
+.about-h {
+    font-size: 80px;
+    margin-right: 100%;
+    margin-top: 40px;
+    margin-bottom: 10px;
+}
+
+.a-ctctf{
+    font-size: 20px; 
+}
+
+.ctctf-h {
+    padding: 10px;
+    padding-left: 0;
+}
+
+.ctctf-belowh {
+    padding: 8px;
+    padding-left: 0;
+}
+
+.ctctf-content{
+    padding: 5px;
+    padding-left: 0;
+    margin-bottom: 30px;
+}
+
+/* faq */
+.faq-page {
+    background-color: #FFF;
+}
+
+.questions {
+    padding: 30px;
+}
+
+.question-a {
+    text-align: left;
+    font-size: 20px;
+    font-weight: 400;
+    margin-bottom: 20px;
+}
+
+.question-q{
+    text-align: left;
+    font-size: 30px;
+    font-weight: 500;
+}
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,63 @@
+/* STYLES */
+$font: sans-serif;
+
+/* COLORS */
+$color-white: #fff;
+$color-red: #c61130;
+$color-green: #6c9b27;
+$color-yellow: #f6aa06;
+$color-purple: #432737;
+$color-blue: #163a49;
+$color-turquoise: #232d2e;
+$color-dark-grey: #222;
+$color-light-grey: #e7e7e7;
+
+html {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    font-family: $font;
+}
+
+body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+#landing {
+    display: table;
+    width: 100%;
+    height: 540px;
+    
+    .cover {
+        display: table-cell;
+        vertical-align: middle;
+        
+        .content {
+            text-align: center;
+            
+            h1.title {
+                font-size: 48px;
+            }
+            
+            h2.present {
+                font-size: 48px;
+            }
+        }
+    }
+}
+
+.forrest {
+    background: url(assets/surface.png) repeat bottom left;
+    background-size: auto 100%;
+}
+
+.dirt {
+    background: url(assets/dirt.png) repeat bottom left;
+    background-size: auto 100%;
+    
+    height: 540px;
+}

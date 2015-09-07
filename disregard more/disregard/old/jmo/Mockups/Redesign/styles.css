@@ -1,0 +1,179 @@
+/* STYLES */
+/* COLORS */
+html {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif; }
+
+body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0; }
+
+#background {
+  position: fixed;
+  z-index: -999;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: 0;
+  padding: 0;
+  background: url("") repeat top left; }
+
+#intro {
+  display: table;
+  width: 100%;
+  /* height: px; */
+  margin: 0;
+  padding: 125px 0;
+  background-color: #2A2B2A;
+  color: #FFF; }
+  #intro #container {
+    display: table-cell;
+    vertical-align: middle; }
+    #intro #container #content #title {
+      text-align: center;
+      font-size: 85px;
+      margin: 25px;
+      padding: 0; }
+    #intro #container #content #date {
+      text-align: center;
+      font-size: 35px;
+      font-weight: 300;
+      margin: 25px;
+      padding: 0; }
+    #intro #container #content form {
+      font-family: inherit;
+      margin: 0;
+      padding: 0; }
+
+.navbar {
+  margin: 0; }
+
+.email-container {
+  display: block;
+  width: 100%;
+  height: 50px;
+  height: auto;
+  text-align: center;
+  max-width: 560px;
+  margin-top: 75px;
+  margin-bottom: 5px;
+  padding: 0;
+  border: 0;
+  text-align: center; }
+  .email-container .email-form {
+    display: inline-block;
+    width: 100%;
+    height: 50px;
+    text-align: center;
+    max-width: 70%;
+    background: rgba(11, 11, 11, 0.9);
+    margin-right: 0;
+    padding: 15px 25px;
+    border: 0;
+    color: #1D1D1D;
+    font-size: 18px;
+    font-family: 'Ubuntu';
+    font-weight: 400;
+    text-align: center;
+    vertical-align: top;
+    -webkit-appearance: none; }
+    .email-container .email-form:valid {
+      color: #6c9b27; }
+    .email-container .email-form:invalid {
+      color: #c61130; }
+    .email-container .email-form:hover, .email-container .email-form:active, .email-container .email-form:focus {
+      outline: 0px !important;
+      -webkit-appearance: none; }
+  .email-container .email-confirmed {
+    display: inline-block;
+    width: auto;
+    height: 50px;
+    margin: 0;
+    margin-top: 0px;
+    margin-left: -1px;
+    padding-left: 25px;
+    padding-right: 25px;
+    background: rgba(25, 171, 93, 0.9);
+    color: #FFF;
+    vertical-align: top;
+    border: none;
+    transition: all 200ms ease-in-out 0s;
+    -o-transition: all 200ms ease-in-out 0s;
+    -moz-transition: all 200ms ease-in-out 0s;
+    -ms-transition: all 200ms ease-in-out 0s; }
+    .email-container .email-confirmed:hover {
+      background: rgba(55, 201, 123, 0.9); }
+
+#about {
+  width: 100%;
+  margin: 0;
+  padding: 75px 0;
+  background-color: rgba(200, 200, 200, 0.4); }
+  #about .statistics {
+    max-width: 620px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center; }
+    #about .statistics .snumber {
+      font-size: 48px;
+      margin: 0; }
+    #about .statistics .sdetail {
+      font-size: 24px;
+      margin: 0; }
+
+.CTCTF-about {
+  margin: 75px auto 20px auto;
+  text-align: center; }
+  .CTCTF-about .question {
+    margin: 25px; }
+  .CTCTF-about .answer {
+    font-size: 18px;
+    line-height: 2; }
+
+.visit-faq {
+  text-align: center;
+  margin-top: 75px; }
+
+#footer {
+  padding: 75px 0;
+  background-color: #2A2B2A;
+  color: #FFF; }
+  #footer .header {
+    text-align: center;
+    margin-bottom: 0; }
+  #footer .email-container {
+    margin-top: 50px; }
+
+/* FAQ  */
+#faq {
+  width: 100%;
+  margin: 0;
+  padding: 75px 0;
+  background-color: rgba(200, 200, 200, 0.4); }
+
+.question-container {
+  margin-top: 35px;
+  padding: 10px; }
+  .question-container .question {
+    text-align: center;
+    font-size: 36px;
+    margin-bottom: 20px; }
+  .question-container .answer {
+    font-size: 18px;
+    line-height: 1.7; }
+
+.faq-l {
+  padding-right: 20px; }
+
+.faq-r {
+  padding-left: 20px; }
+
+/*# sourceMappingURL=styles.css.map */
