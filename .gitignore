@@ -1,2 +1,5 @@
 .sass-cache
 *.css.map
+.DS_Store
+js/jquery
+js/jquery-easing
